@@ -65,6 +65,8 @@ public static void main(String args[])
 {
 
     computer hp = new computer();
+    hp.display();
     hp.feature();
+   
 }
 }
